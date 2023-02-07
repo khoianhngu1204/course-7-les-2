@@ -1,0 +1,13 @@
+*{
+  padding-top: 10px;
+  margin: none;
+  background-color: none;
+}
+
+.menu{
+  background-color: bisque;
+}
+
+
+.content{
+  background-color: azure;
